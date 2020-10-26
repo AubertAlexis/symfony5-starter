@@ -30,7 +30,7 @@ yarn encore dev
 
 ---------------
 
-## Fonctionnalités
+## Fonctionnalitées
 
    - SB ADMIN 2 thème pour l'espace d'administration.
    - CRUD pour les utilisateurs côté administrateur
