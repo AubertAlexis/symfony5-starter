@@ -14,7 +14,7 @@ yarn install
 Créer un fichier `.env.local` :
 > N'oubliez pas de modifier avec vos informations.
 ```dotenv
-DATABASE_URL=mysql://root:password@127.0.0.1:3306/symfony5-cms
+DATABASE_URL=mysql://root:password@127.0.0.1:3306/symfony5-starter
 ```
 
 ## 3 - Génération de la structure
